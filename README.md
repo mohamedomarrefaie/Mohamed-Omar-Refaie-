@@ -72,6 +72,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=mohamedomarrefaie&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue)
 
-> *"Code. Learn. Build. Improve. Repeat."* 🚀
+⭐ Thanks for visiting my profile!
